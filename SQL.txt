@@ -1,0 +1,69 @@
+SQL
+What is Database?
+Adatabase is a synthetic collection of data. They support electronic storage and manipulation of data. Database make data management easy.
+
+
+pic :
+User ------>(SQL) DBMS -->Database
+
+Database Management System :
+DBMS is a collection of programme that enables its user to access database. manipulation data, report and represent data. It also helps to control access to the database.
+
+What is SQL?
+SQL is the standard language for dealing wit relational Database. SQL can be used to insert, search, update, and Delete database records. SQL can do lots of other operations, include optimizing and maintenance of database.
+
+
+
+SQL Commands:
+================
+
+DDL
+	CREATE
+	DROP
+	ALTER
+	TRUNCATE
+	RENAME
+DML
+	INSERT
+	UPDATE
+	DELETE
+	CALL
+	LOCK
+TCL
+	COMMIT
+	SAVEPOINT
+	ROLLBACK
+	SET transaction
+	SET Constraint
+DQL
+	SELECT
+DCL
+	GRANT
+	REVOKE
+
+
+List of SQL commands:
+here is a list of some of the commonly used SQL commands
+
+CREATE - defines the database structure schema
+INSERT - insert data intothe row of a table
+UPDATE - update data in a database
+DELETE - remove one or more rows from the table
+SELECT - select the attribute based on the condition described by the WHERE clause
+DROP - Remove tables and database
+
+
+Key words :
+===================
+SQL language elements:
+HEre are important elements of SQL language:
+
+keywords: Each SQL statement contains single or multiple keywords
+
+Identifiers: Identifiers are names of object in the database, like user Id's tables, and columns.
+
+Strings: strings can be either literal string or expression with VARCHAR or CHAR data type
+
+Expressions : Expressions are formed from several elements, like constants, SQL operators, column names, and subqueries,
+
+Null value: use NULL , which helps you to specify a value that is unknown, missing , or not applicable
